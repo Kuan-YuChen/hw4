@@ -9,8 +9,10 @@ html {
     max-height: 880px;
     margin-left: 160px;
     margin-right: 160px;
+    background-color: #EDf2C5;
 }
 
+.header {
     color: #778A50;
     height: 147px;
 }
@@ -232,6 +234,7 @@ li {
     padding-left: 480px;
     background-color: #778A50;
 }
+
 
 
 
